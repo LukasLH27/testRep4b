@@ -24,7 +24,7 @@ namespace BinaryTreeApp
 
             bt.Minimum();
 
-
+            //Neuer Kommentar
 
 
             //Add() Test

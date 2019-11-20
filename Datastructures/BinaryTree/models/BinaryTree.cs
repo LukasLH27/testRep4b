@@ -170,6 +170,7 @@ namespace BinaryTreeApp.models
 
         }
 
+        //Kommentar hinzugefügt
 
 
     }
