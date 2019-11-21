@@ -44,6 +44,7 @@ namespace BinaryTreeApp.models
         {
             get
             {
+                // Kommentar Lokal
                 return _count;
             }
         }
