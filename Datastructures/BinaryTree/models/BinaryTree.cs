@@ -35,6 +35,7 @@ namespace BinaryTreeApp.models
         {
             get
             {
+                // Luggi machts besser
                 return _count;
             }
         }
