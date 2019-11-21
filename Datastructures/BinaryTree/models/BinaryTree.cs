@@ -31,6 +31,15 @@ namespace BinaryTreeApp.models
             }
         }
 
+        public int Count3
+        {
+            get
+            {
+                return _count;
+            }
+        }
+
+
 
         public void Add(int? itemToAdd)
         {
