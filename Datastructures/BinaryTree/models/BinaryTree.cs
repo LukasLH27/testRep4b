@@ -35,6 +35,7 @@ namespace BinaryTreeApp.models
         {
             get
             {
+                //Holzi murkst again
                 // Luggi machts besser
                 return _count;
             }
