@@ -44,7 +44,7 @@ namespace BinaryTreeApp.models
         {
             get
             {
-                // Kommentar Lokal
+                //Kommentar Remote
                 return _count;
             }
         }
